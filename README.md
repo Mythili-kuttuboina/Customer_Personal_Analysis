@@ -12,4 +12,15 @@ The goal of this project is to understand customer behavior, identify patterns, 
 ✅ Data Visualization (Charts & Graphs)  
 ✅ Machine Learning Model – K-Nearest Neighbors (KNN)  
 ✅ SQL Queries for Data Analysis  
-✅ Interactive Dashboard (Power BI)  
+✅ Interactive Dashboard (Power BI) 
+
+ Technologies Used  
+
+Python  
+Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
+Scikit-learn  
+SQL (MySQL)  
+Power BI  
