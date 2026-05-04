@@ -7,9 +7,9 @@ The goal of this project is to understand customer behavior, identify patterns, 
 
  Key Features
  
-✅ Data Cleaning & Preprocessing
-✅ Exploratory Data Analysis (EDA)
-✅ Data Visualization (Charts & Graphs)
-✅ Machine Learning Model – K-Nearest Neighbors (KNN)
-✅ SQL Queries for Data Analysis
-✅ Interactive Dashboard (Power BI)
+✅ Data Cleaning & Preprocessing  
+✅ Exploratory Data Analysis (EDA)  
+✅ Data Visualization (Charts & Graphs)  
+✅ Machine Learning Model – K-Nearest Neighbors (KNN)  
+✅ SQL Queries for Data Analysis  
+✅ Interactive Dashboard (Power BI)  
